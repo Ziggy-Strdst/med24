@@ -1,0 +1,11 @@
+User-agent: *
+Host: https://med-help24.online
+Sitemap: https://med-help24.online/xml/med-help24.online.xml
+Disallow: /netcat/
+Disallow: /promo/
+Disallow: /search/
+Disallow: /policy/
+Disallow: /zayavka/
+Disallow: /o-kompanii/
+Disallow: /o-kompanii/*
+Disallow: /*?*
